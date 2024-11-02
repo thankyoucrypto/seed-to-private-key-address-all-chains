@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=SID+-+PRIVATE KEY+-+ADDRESS+[ALL+CHAINS...])](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=SID-PRIVATE+KEY-ADDRESS+[ALL+CHAINS...])](https://git.io/typing-svg)
 # 🔋 ГЕНЕРАТОР SID-KEY-ADDRESS [ALL-CHAINS]
 
 ![Logo](picture.jpg)
